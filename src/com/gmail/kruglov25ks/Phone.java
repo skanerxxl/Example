@@ -1,6 +1,7 @@
 package com.gmail.kruglov25ks;
 
 class Phone {
+    // новый комит
 
     private String name;
     private int price;
