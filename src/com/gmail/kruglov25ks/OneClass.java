@@ -1,4 +1,1 @@
-package com.gmail.kruglov25ks;
-
-public class OneClass {
-}
+package com.gmail.kruglov25ks;public class OneClass {}
